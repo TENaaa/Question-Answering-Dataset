@@ -1,35 +1,27 @@
-﻿  
+
      question :  Is the national tax in a certain district of Beijing a sub-provincial or prefecture-level roll? ,
      answer :  Prefecture and city level 
-    ,
    
      question :  请问办理了考务减免费用也通过考试机构审核了，但是缴费状态还是未缴费就这样不用做什么吗？ ,
      answer :  需要打考务电话确认 
-    ,
    
      question :  现在找了个工作，但是要签三方协议，这个会影响我参加省考吗？ ,
      answer :  不影响 
-    ,
    
      question :  在申论小题书写中，阿拉伯数字例如1.后面的点需要单独占一个格吗？ ,
      answer :  不需要 
-    ,
    
      question :  如果国考和省考题做完了(仍旧没能上岸)可以做那儿些省份的题了 ,
      answer :  国考省考题做完和没考上没有必然的因果关系，我建议全面总结国考和省考题，精做细做，不是为了做了做。 
-    ,
    
      question :  19年硕士毕业，毕业院校和时间是填硕士毕业时间还是本科毕业时间阿？ ,
      answer :  硕士的 
-    ,
    
      question :  有的岗位后面备注 适合男性 ，这种情况下女生报了能审核通过吗？假如通过了而且进面了是不是也是男生优先？ ,
      answer :  是的 
-    ,
    
      question :  16年7月毕业到今天这期间找了一家公司上班，公司给我交了11个月社保，其它时间全部是自己找工作干，没合同也没交社保。请问我这种情况能否按照两年基层工作的要求去报名？ ,
      answer :  没问题 
-    ,
    
      question :  我的专业是工商管理(跨国公司管理)，但我国考报名表上只写了工商管理，现在已经审核通过修改不了了，这种会不会有影响啊？ ,
      answer :  不会的 
